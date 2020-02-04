@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Diplom/static/css/main.50113c99.chunk.css",
+    "main.js": "/Diplom/static/js/main.7487f5b2.chunk.js",
+    "main.js.map": "/Diplom/static/js/main.7487f5b2.chunk.js.map",
+    "runtime-main.js": "/Diplom/static/js/runtime-main.20e128c7.js",
+    "runtime-main.js.map": "/Diplom/static/js/runtime-main.20e128c7.js.map",
+    "static/css/2.ff8bd605.chunk.css": "/Diplom/static/css/2.ff8bd605.chunk.css",
+    "static/js/2.b76073ab.chunk.js": "/Diplom/static/js/2.b76073ab.chunk.js",
+    "static/js/2.b76073ab.chunk.js.map": "/Diplom/static/js/2.b76073ab.chunk.js.map",
+    "index.html": "/Diplom/index.html",
+    "precache-manifest.6d3fc2ab2cef296b6b40c0c37595b2f7.js": "/Diplom/precache-manifest.6d3fc2ab2cef296b6b40c0c37595b2f7.js",
+    "service-worker.js": "/Diplom/service-worker.js",
+    "static/css/2.ff8bd605.chunk.css.map": "/Diplom/static/css/2.ff8bd605.chunk.css.map",
+    "static/css/main.50113c99.chunk.css.map": "/Diplom/static/css/main.50113c99.chunk.css.map",
+    "static/js/2.b76073ab.chunk.js.LICENSE": "/Diplom/static/js/2.b76073ab.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20e128c7.js",
+    "static/css/2.ff8bd605.chunk.css",
+    "static/js/2.b76073ab.chunk.js",
+    "static/css/main.50113c99.chunk.css",
+    "static/js/main.7487f5b2.chunk.js"
+  ]
+}
